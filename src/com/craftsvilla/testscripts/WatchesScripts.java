@@ -8,6 +8,7 @@ import com.craftsvilla.pompages.AccessoriesProductPage;
 import com.craftsvilla.pompages.ProductDetailsPage;
 import com.craftsvilla.pompages.WatchesPage;
 
+//Scenario to buy watch
 public class WatchesScripts extends BaseTest
 {
 	public AccessoriesProductPage ap  = null;
